@@ -6,10 +6,8 @@
     xmlns:local="clr-namespace:MauiAppHotel"
     Shell.FlyoutBehavior="Disabled"
     Title="MauiAppHotel">
-
     <ShellContent
         Title="Home"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
-
 </Shell>
